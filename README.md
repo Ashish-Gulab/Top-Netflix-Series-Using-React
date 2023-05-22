@@ -1,4 +1,4 @@
-<h2> To visit my website. Click on the below link..<h2>
+<h2>Click on the below link to visit the website.<h2>
   
   https://topnetflixseries.netlify.app/
 
